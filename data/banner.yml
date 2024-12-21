@@ -1,8 +1,8 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style2 orient-right content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "The Last Bastion III"
 subtitle: |
-  Where Bastions, infantry and vehicles work together.
+  Where bastions, infantry and vehicles work together.
 content : |
   <ul>
     <li>
@@ -11,8 +11,4 @@ content : |
     <li>
       <a href=https://discord.gg/Frhe9rs>PlanetWide Events Discord</a>. Please join for updates on this and future events.
   <ul>
-button:
-  label : "Get Started"
-  link : "#first"
-image : "images/banner.jpg"
-
+image : "images/banner.png"
