@@ -1,0 +1,18 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "The Last Bastion 3"
+subtitle: |
+  Where Bastions, infantry and vehicles work together.
+content : |
+  <ul>
+    <li>
+      <a href=https://sites.google.com/view/thelastbastioniii/home>The Last Bastion 3 docs</a>. Please be aware that this is a Google site, with tracking disabled.
+    </li>
+    <li>
+      <a href=https://discord.gg/Frhe9rs>PlanetWide Events Discord</a>. Please join for updates on this and future events.
+  <ul>
+button:
+  label : "Get Started"
+  link : "#first"
+image : "images/banner.jpg"
+
